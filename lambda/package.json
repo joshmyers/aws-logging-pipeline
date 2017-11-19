@@ -1,0 +1,9 @@
+{
+  "name": "logging_pipeline",
+  "author": "Josh Myers <joshuajmyers@gmail.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "lambda-local": "1.4.4"
+  }
+}
